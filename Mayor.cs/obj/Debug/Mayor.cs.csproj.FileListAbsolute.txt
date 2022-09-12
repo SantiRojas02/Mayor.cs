@@ -1,0 +1,6 @@
+D:\Facultad\Programacion\Act 1 c#\Mayor.cs\Mayor.cs\bin\Debug\Mayor.cs.exe.config
+D:\Facultad\Programacion\Act 1 c#\Mayor.cs\Mayor.cs\bin\Debug\Mayor.cs.exe
+D:\Facultad\Programacion\Act 1 c#\Mayor.cs\Mayor.cs\bin\Debug\Mayor.cs.pdb
+D:\Facultad\Programacion\Act 1 c#\Mayor.cs\Mayor.cs\obj\Debug\Mayor.cs.csprojResolveAssemblyReference.cache
+D:\Facultad\Programacion\Act 1 c#\Mayor.cs\Mayor.cs\obj\Debug\Mayor.cs.exe
+D:\Facultad\Programacion\Act 1 c#\Mayor.cs\Mayor.cs\obj\Debug\Mayor.cs.pdb
